@@ -1,0 +1,21 @@
+{
+  "result": {
+    "text": "SCOPED TOOL INVOCATION"
+  },
+  "replay_denied": "BUDGET_EXHAUSTED",
+  "audit": [
+    {
+      "status": "DISPATCHED",
+      "tool": "uppercase"
+    },
+    {
+      "status": "ACKNOWLEDGED",
+      "tool": "uppercase"
+    },
+    {
+      "status": "DENIED",
+      "reason": "BUDGET_EXHAUSTED"
+    }
+  ],
+  "authenticated_owner": false
+}

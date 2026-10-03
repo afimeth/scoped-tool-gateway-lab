@@ -1,0 +1,14 @@
+test_allowed (test_app.Tests.test_allowed) ... ok
+test_args_deny_before_effect (test_app.Tests.test_args_deny_before_effect) ... ok
+test_concurrent_budget (test_app.Tests.test_concurrent_budget) ... ok
+test_expired (test_app.Tests.test_expired) ... ok
+test_failure_consumes_budget (test_app.Tests.test_failure_consumes_budget) ... ok
+test_invalid_grants (test_app.Tests.test_invalid_grants) ... ok
+test_replay (test_app.Tests.test_replay) ... ok
+test_scope (test_app.Tests.test_scope) ... ok
+test_unknown (test_app.Tests.test_unknown) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.006s
+
+OK
